@@ -20,6 +20,7 @@
     <img src = './assets/body.png' alt = 'Interface Principal'>
     <img src = './assets/aboutus.png' alt = 'Sobre Nós'>
     <img src = './assets/footer.png' alt = 'Footer'>
+    <img src = './assets/fullpage.png' alt = 'Página inteira'>
 </div>
 
 <br>
